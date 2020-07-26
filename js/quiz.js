@@ -4,7 +4,7 @@ let questions = [
   ["How many colors are there in the Nigeria National flag?", 2],
   ["How many fingers do you have?", 10],
   ["How many leg does an insect has?", 6],
-  ["Nigeria became a republic in?", 1963]
+  ["Nigeria became a republic in the year?", 1963],
 ];
 
 // 2. Store the number of questions answered correctly
@@ -50,6 +50,3 @@ let html = `<h1>You've got ${correctAnswer} question(s)</h1>
 document.querySelector("main").innerHTML = html;
 
 // 4. Display the number of correct answers to the user1960
-
-
-
