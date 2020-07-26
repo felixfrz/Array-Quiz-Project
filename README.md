@@ -1,2 +1,1 @@
-# Quiz-Project
- Array Quiz project
+# Quiz-project
