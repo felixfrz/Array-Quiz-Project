@@ -32,6 +32,7 @@ for (let i = 0; i < questions.length; i++) {
   }
 }
 
+
 function createListItems(arr) {
   let items = "";
   for (let i = 0; i < arr.length; i++) {
@@ -49,4 +50,4 @@ let html = `<h1>You've got ${correctAnswer} question(s)</h1>
 `;
 document.querySelector("main").innerHTML = html;
 
-// 4. Display the number of correct answers to the user1960
+// 4. Display the number of correct answers to the user 1960
